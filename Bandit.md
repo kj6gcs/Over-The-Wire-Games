@@ -1,7 +1,5 @@
 ## Level 0:
 
----
-
 #### Goal:
 
 SSH into the bandit0 account at bandit.labs.overthewire.org on port 2220. Password is bandit0.
